@@ -1,4 +1,4 @@
-package com.example.mathlab4fx;
+package org.korolev.dens;
 
 public class WrongInputException extends Exception{
 
